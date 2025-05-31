@@ -1,0 +1,13 @@
+#Ignore everything
+/*
+
+#Except from the following files
+!.gitignore
+!README.md
+!LICENSE.txt
+!CMakeLists.txt
+!Main.cpp
+
+#And the following folders
+!src/
+!media/
