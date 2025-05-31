@@ -1,9 +1,0 @@
-media/textures/credit_logo.png
-media/font/SegoeMarker.ttf
-Lead Programmer: Elliot Codling
-Lead Artist: CoolTom06
-Programmer 1: Eefyweefy
-Programmer 2: Kitty
-Artist 1: Marc-iplier
-Artist 2: Ryan Gosling
-Acknowledgements: King Sud

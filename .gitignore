@@ -6,8 +6,7 @@
 !README.md
 !LICENSE.txt
 !CMakeLists.txt
-!Main.cpp
 
 #And the following folders
-!src/
-!media/
+!ZombieGame/
+!GraceEngine/
